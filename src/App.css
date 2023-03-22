@@ -1,0 +1,109 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+  
+}
+img{
+  margin-left:2em;
+}
+.container{
+  border: 2px solid gray;
+  width: 450px;
+  height:auto;
+  margin-left:30%;
+  margin-top: 10%;
+
+
+}
+.header{
+  text-align: justify;
+}
+.h6{
+  color: rgb(231,84,128);;
+  font-size: 0.8em;
+}
+.content-heading{
+   display: flex;
+   flex-direction: row;
+   cursor: pointer;
+   position: relative;
+   margin-left: 100px;     
+}
+
+form
+{
+  margin-top: 2em;
+  
+
+}
+
+input{
+  border:none;
+  border:2px solid gray;
+  width:300px;
+  height:50px;
+  margin-top: 2em;
+  border-radius: 25px;
+  border-color: darkgrey;
+  border-top-color: darkgray;
+  
+  /* border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px; */
+
+  text-align: center;
+}
+#login{
+  background-color: rgb(231,84,128);
+}
+
+#for-h6{
+margin-right: -220px;
+color:rgb(231,84,128);
+font-size:0.8em;
+margin-top:3%;
+}
+#text-login{
+  font-size: 0.9em;
+  
+}
+#flot-text-3{
+  color:rgb(231,84,128);
+  border-bottom:2px solid rgb(231,84,128);
+  width:200px;
+}
+.media{
+word-spacing: 30px;
+}
+#flot-text{
+  text-align: center;
+}
+a{
+  color: rgb(231,84,128);
+}
+h3{
+
+font-size: 1.17em;
+margin-block-start: 1em;
+margin-block-end: 1em;
+margin-inline-start: 0px;
+margin-inline-end: 0px;
+font-weight: bold;
+text-align: center;
+}
+.con-text-2{
+  border-bottom:3px solid rgb(231,84,128);
+ width:100px;
+ margin-left: 100px;
+
+}
+.con-text-1{
+  border-bottom:3px solid rgb(231,84,128);
+  width:100px;
+
+}
